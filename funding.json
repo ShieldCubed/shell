@@ -26,7 +26,7 @@
             "url": "https://github.com/ShieldCubed/shell",
             "wellKnown": "https://github.com/ShieldCubed/shell/edit/main/funding.json"
         },
-        "licenses": ["spdx: BSL-1.0"],
+        "licenses": ["spdx: CC-BY-4.0"],
         "tags": ["antivirus", "defender", "protection-tool", "ransomware-protection"]
     }],
 
