@@ -1,8 +1,6 @@
-json
 {
     "version": "v1.0.0",
     
-    // Required. The entity associated with the project, soliciting funds.
     "entity": {
         "type": "organisation",
         "role": "owner",
@@ -16,7 +14,6 @@ json
         }
     },
 
-    // Optional. One or more projects for which the funding is solicited.
     "projects": [{
         "guid": "shieldcubed-shell-app",
         "name": "ShieldCubed Shell App",
@@ -26,16 +23,14 @@ json
             "wellKnown": "https://github.com/ShieldCubed/shell/funding.json"
         },
         "repositoryUrl": {
-            "url": "https://github.com/ShieldCubed/shield",
+            "url": "https://github.com/ShieldCubed/shell",
             "wellKnown": "https://github.com/ShieldCubed/shell/funding.json"
         },
         "licenses": ["spdx: BSL-1.0"],
         "tags": ["antivirus", "defender", "protection-tool", "ransomware-protection"]
     }],
 
-    // Required.
     "funding": {
-        // Required. This describes one or more channels via which the entity can receive funds.
         "channels": [{
             "guid": "FederalBankLtd",
             "type": "ourbank",
@@ -48,7 +43,6 @@ json
             "description": "Pay with your crypto wallet or exchange wallet and transfer us USDT or USDC ERC20 tokens on Ethereum Mainnet."
         }],
 
-        // Required. One or more funding and payment plans.
         "plans": [{
             "guid": "monthly-funding-plan",
             "status": "active",
