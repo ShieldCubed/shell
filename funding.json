@@ -20,7 +20,7 @@
         "description": "ShieldCubed is a robust, open-source malware protection system specifically tailored for Linux users. We want every Linux enthusiast to feel confident in their system's safety.",
         "webpageUrl": {
             "url": "https://shieldcubed.xyz",
-            "wellKnown": "https://shieldcubed.xyz/.well-known/funding-manifest-urls"
+            "wellKnown": "https://github.com/ShieldCubed/shell/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/ShieldCubed/shell",
