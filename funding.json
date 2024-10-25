@@ -10,7 +10,7 @@
         "description": "ShieldCubed is an exciting new project dedicated to enhancing the security of Linux systems including Ubuntu, Arch Linux, Zorin, Ubuntu Server and Rocky Linux. Our mission is to create a powerful, open-source tool that protects your Linux computer and computing infrastructure from various types of malware e.g. worms, ransomware, botnets, viruses and other malware agents.",
         "webpageUrl": {
             "url": "https://shieldcubed.xyz",
-            "wellKnown": "https://github.com/ShieldCubed/shell/funding.json"
+            "wellKnown": "https://shieldcubed.xyz/.well-known/funding-manifest-urls"
         }
     },
 
@@ -20,11 +20,11 @@
         "description": "ShieldCubed is a robust, open-source malware protection system specifically tailored for Linux users. We want every Linux enthusiast to feel confident in their system's safety.",
         "webpageUrl": {
             "url": "https://shieldcubed.xyz",
-            "wellKnown": "https://github.com/ShieldCubed/shell/funding.json"
+            "wellKnown": "https://shieldcubed.xyz/.well-known/funding-manifest-urls"
         },
         "repositoryUrl": {
             "url": "https://github.com/ShieldCubed/shell",
-            "wellKnown": "https://github.com/ShieldCubed/shell/funding.json"
+            "wellKnown": "https://github.com/ShieldCubed/shell/.well-known/funding-manifest-urls"
         },
         "licenses": ["spdx: BSL-1.0"],
         "tags": ["antivirus", "defender", "protection-tool", "ransomware-protection"]
