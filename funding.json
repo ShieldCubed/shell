@@ -26,7 +26,7 @@
             "url": "https://github.com/ShieldCubed/shell",
             "wellKnown": "https://github.com/ShieldCubed/shell/edit/main/funding.json"
         },
-        "licenses": ["spdx: AGPL-3.0-only"],
+        "licenses": ["spdx:MIT"],
         "tags": ["antivirus", "defender", "protection-tool", "ransomware-protection"]
     }],
 
