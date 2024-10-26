@@ -51,7 +51,7 @@
             "amount": 80000,
             "currency": "USD",
             "frequency": "monthly",
-            "channels": ["ourbank", "ourCryptoWallet"]
+            "channels": ["ourbank197", "ourcryptowallet299"]
         }]
     }
 }
