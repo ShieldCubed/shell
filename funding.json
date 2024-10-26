@@ -32,14 +32,14 @@
 
     "funding": {
         "channels": [{
-            "guid": "ourbank",
+            "guid": "ourbank197",
             "type": "bank",
             "address": "",
             "description": "will accept direct bank transfers. Please email us for details."
         }, {
-            "guid": "ourcryptowallet",
-            "type": "other",
-            "address": "0x3951E0083d516e6f2b7C340C058700E787f61Aa5 (ERC20 wallet address)",
+            "guid": "ourcryptowallet299",
+            "type": "payment-provider",
+            "address": "0x3951E0083d516e6f2b7C340C058700E787f61Aa5 (ERC20)",
             "description": "Pay with your crypto wallet or exchange wallet and transfer us USDT or USDC ERC20 tokens on Ethereum Mainnet."
         }],
 
