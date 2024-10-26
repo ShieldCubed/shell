@@ -37,7 +37,7 @@
             "address": "",
             "description": "will accept direct bank transfers. Please email us for details."
         }, {
-            "guid": "ourcryptowallet299",
+            "guid": "cryptowallet299",
             "type": "payment-provider",
             "address": "0x3951E0083d516e6f2b7C340C058700E787f61Aa5 (ERC20)",
             "description": "Pay with your crypto wallet or exchange wallet and transfer us USDT or USDC ERC20 tokens on Ethereum Mainnet."
@@ -50,8 +50,8 @@
             "description": "This will cover all monthly expenses for the project including developer time and infrastructure.",
             "amount": 80000,
             "currency": "USD",
-            "frequency": "monthly",
-            "channels": ["ourbank197", "ourcryptowallet299"]
+            "frequency": "one-time",
+            "channels": ["ourbank197", "cryptowallet299"]
         }]
     }
 }
