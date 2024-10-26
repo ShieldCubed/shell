@@ -37,8 +37,8 @@
             "address": "",
             "description": "will accept direct bank transfers. Please email us for details."
         }, {
-            "guid": "ourCryptoWallet",
-            "type": "Non-custodial-cryptowallet",
+            "guid": "ourcryptowallet",
+            "type": "cryptowallet",
             "address": "0x3951E0083d516e6f2b7C340C058700E787f61Aa5 (ERC20 wallet address)",
             "description": "Pay with your crypto wallet or exchange wallet and transfer us USDT or USDC ERC20 tokens on Ethereum Mainnet."
         }],
