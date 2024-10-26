@@ -32,8 +32,8 @@
 
     "funding": {
         "channels": [{
-            "guid": "FederalBankLtd",
-            "type": "ourbank",
+            "guid": "ourbank",
+            "type": "payment-provider",
             "address": "",
             "description": "will accept direct bank transfers. Please email us for details."
         }, {
