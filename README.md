@@ -1,4 +1,11 @@
-# shell
-ShieldCubed is an exciting new project dedicated to enhancing the security of Linux systems including Ubuntu, Arch Linux, Zorin, Ubuntu Server and Rocky Linux. Our mission is to create a powerful, open-source tool that protects your Linux computer and computing infrastructure from various types of malware e.g. worms, ransomware, botnets, viruses and other malware agents. 
-
-We regularly update our project goals and milestones achieved on our project website: https://shieldcubed.xyz 
+Stoxswap introduces a novel decentralized protocol for cross-chain atomic swaps
+tailored for privacy-focused cryptocurrencies such as Monero (XMR), Zcash (ZEC), ROSE
+(Oasis Network), Dash (DASH), and Horizen (ZEN), alongside major assets including
+Bitcoin (BTC), Ethereum (ETH), Solana (SOL), Tether (USDT), and USD Coin (USDC). By
+leveraging pattern-free post-quantum cryptographic primitives, Stoxswap ensures
+quantum-resistant security while mitigating transaction traceability through adaptive
+obfuscation techniques. The system operates via browser-based and desktop terminal
+bridges, enabling seamless, intermediary-free exchanges without compromising user
+privacy or network scalability. This whitepaper details the protocol's architecture,
+cryptographic foundations, implementation roadmap, and security considerations,
+positioning Stoxswap as a foundational layer for privacy-centric DeFi in a postquantum era.
